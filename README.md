@@ -1,1 +1,0 @@
-# linux-shell-scripting-beginner
