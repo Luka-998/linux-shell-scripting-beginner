@@ -9,7 +9,7 @@ This repository is organized as follows:
 * **`├── basic-learning/`**
 * **`└── my_scripts/`**
 
-### Bioinformatics folder will contain bioinformatics related tools used in the command line of the linux shell
+### Bioinformatics folder will contain bioinformatics related tools used in the CLI
 - **basic-learning** is actually the junk folder where I test code and figuring it out
 - __my_scripts__ - storage for my own scripts made by me for task automation. 
 
