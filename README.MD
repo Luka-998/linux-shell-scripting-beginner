@@ -2,8 +2,7 @@ Markdown
 
 This repository is organized as follows:
 
-root
-├── bioinformatics/
+**`root`**├── bioinformatics/
 |── basic-learning
 |── my_scripts/
 
